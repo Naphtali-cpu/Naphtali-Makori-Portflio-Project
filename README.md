@@ -1,4 +1,5 @@
-# Naphtali Makori
+## Personal Portfolio Website Project
+# Written By: Naphtali Makori
 ## Naphtali's First Moringa School Project!
 This is a project assigned by Moringa School Software Development Class, creating your own portfolio website by the end of the first week.
 
